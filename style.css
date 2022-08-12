@@ -1,0 +1,72 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-color: #e7f6f2;
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-image: url("https://img.freepik.com/vetores-gratis/mao-desenhada-de-volta-ao-fundo-da-escola_23-2149031981.jpg?w=2000");
+}
+
+.container {
+  text-align: center;
+  padding: 55px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #2c3333;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #395b64;
+  margin-top: 5px;
+  font-size: 25px;
+}
+
+.page-logo {
+  width: 200px;
+  background: ;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+label {
+  color: #395b64;
+  font-family: "Roboto Mono", monospace;
+  font-size: 25px;
+}
+
+input {
+  margin: 10px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #e7f6f2;
+}
+
+button:hover {
+  background: #a5c9ca;
+}
+
+h2 {
+  color: #e7f6f2;
+  font-family: "Roboto Mono", monospace;
+  font-size: 25px;
+  background: #2c3333;
+}
+
+.imagemDeFundo {
+  width: 300px;
+}
